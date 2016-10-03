@@ -3,6 +3,7 @@ package bin;
 public class HelloWorld {
 
     private static final String getHelloString() {
+	// comment
         return "hello";
     }
 
